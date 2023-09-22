@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-html-monorepo",
+  "name": "vite-plugin-monorepo",
   "version": "3.2.0",
   "private": true,
   "scripts": {
@@ -16,12 +16,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vbenjs/vite-plugin-html"
+    "url": "https://github.com/DraculaPrince/vite-plugin-html"
   },
   "bugs": {
-    "url": "https://github.com/vbenjs/vite-plugin-html/issues"
+    "url": "https://github.com/DraculaPrince/vite-plugin-html/issues"
   },
-  "homepage": "https://github.com/vbenjs/vite-plugin-html/tree/master/#readme",
+  "homepage": "https://github.com/DraculaPrince/vite-plugin-html/#readme",
   "devDependencies": {
     "@commitlint/cli": "^16.2.1",
     "@commitlint/config-conventional": "^16.2.1",
