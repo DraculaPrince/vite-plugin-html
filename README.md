@@ -1,4 +1,4 @@
-# vite-plugin-html
+# vite-plugin-html-multipage
 
 **English** | [中文](./README.zh_CN.md)
 
